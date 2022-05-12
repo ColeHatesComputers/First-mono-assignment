@@ -70,7 +70,6 @@ namespace mono_test
 
             _spriteBatch.End();
 
-
             base.Draw(gameTime);
         }
     }
